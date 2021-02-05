@@ -1,4 +1,3 @@
-### BIO
 Industrial designer, car-modeller and former owner of nightclub _wolf_ turned computer science student.  
 I love electronic systems, always have, always will.
 
