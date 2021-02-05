@@ -1,4 +1,6 @@
-### Hi there 👋
+### BIO
+Industrial designer, car-modeller and former owner of nightclub _wolf_ turned computer science student.
+I love electronic systems, always have, always will.
 
 <!--
 **johannesrave/johannesrave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
