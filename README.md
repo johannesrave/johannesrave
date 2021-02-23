@@ -1,5 +1,5 @@
-Industrial designer, car-modeller and former owner of nightclub _wolf_ turned computer science student.  
-I love electronic systems, always have, always will.
+Industrial designer, car-modeller and former owner of nightclub _wolf_ turned computer science student.
+Currently open for entry level dev-positions in Berlin.
 
 <!--
 **johannesrave/johannesrave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
