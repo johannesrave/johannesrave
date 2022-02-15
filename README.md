@@ -1,7 +1,7 @@
 Industrial designer, car modeller and former nightclub owner, now computer science student. 
 I am passionate coder and professional designer with logical thinking, great willingness to learn, good communication skills and diverse work experience.
 
-Currently I am looking for a challenge as a working student or junior dev in software development.
+I'm now working for INNOQ as an IT consultant, concentrating on web-tech, usability, software architecture and user experience.
 
 Ask me about my projects if you'd like to know more!
 
